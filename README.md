@@ -2,13 +2,12 @@
 This repository provides a Jupyter notebook designed for analyzing cyber-attack detection on critical infrastructure systems, specifically water treatment plants. Using datasets with records of both normal operations and attack scenarios, this notebook applies machine learning techniques to detect and classify various cyber-attacks.
 
 ## Table of Contents
-Project Overview
-Data Requirements
-Notebook Outline
-Dependencies
-Usage
-Results and Model Performance
-License
+- [Project Overview](#project-overview)
+- [Data Requirements](#data-requirements)
+- [Notebook Outline](#notebook-outline)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Results and Model Performance](#results-and-model-performance)
 
 ## Project Overview
 This notebook focuses on cybersecurity for critical infrastructure, specifically monitoring and detecting cyber-attacks on water treatment facilities. The analysis uses data from SWaT (Secure Water Treatment), a real-world testbed, to classify operation states and detect abnormal activities associated with various cyber-attack types.
